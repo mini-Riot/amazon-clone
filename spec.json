@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "amazon-clone",
+    "repo_url": "https://github.com/mini-Riot/amazon-clone"
+  },
+  "structure": "monorepo",
+  "apps": [
+    "api",
+    "web"
+  ],
+  "database": [],
+  "endpoints": [],
+  "features": []
+}
